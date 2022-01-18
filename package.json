@@ -1,0 +1,20 @@
+{
+  "name": "preloader",
+  "version": "1.0.0",
+  "description": "\"# preloader\"",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch sass:assets/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zubairbhuian/preloader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zubairbhuian/preloader/issues"
+  },
+  "homepage": "https://github.com/zubairbhuian/preloader#readme"
+}
